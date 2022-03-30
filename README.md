@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://github.com/mehdichaouch/elyze-dataset">ELYZE Dataset</a></h1>
 <p align="center">
   <a href="https://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/github/license/mehdichaouch/elyze-dataset.svg?style=flat" alt="License:MIT"></a>
 </p>
 
 <p align="center">ELYZE dataset is based on the code of <a href="https://github.com/francoismari/elyze/">ELYZE app</a>.</p>
